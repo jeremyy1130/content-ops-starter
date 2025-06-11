@@ -8,10 +8,23 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Securing Identity in the Age of AI Voice Cloning
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: |+
+      In recent years, voice verification has gained popularity as a 
+      convenient form of biometric authentication. Banks, customer service 
+      systems, and smart devices have adopted this method to verify users 
+      simply through speech. A common phrase like "Please say your name" can 
+      be enough to grant access to sensitive services. The appeal is obvious: 
+      it's fast, user-friendly, and doesn't require physical contact or 
+      remembering passwords.
+
+      However, as artificial intelligence, especially voice 
+      synthesis technology, continues to advance rapidly, serious concerns 
+      have emerged. AI voice cloning can now replicate a person's voice from 
+      just a short sample, raising the question: can voice verification still 
+      be trusted?
+
+
+
     actions:
       - label: Get started
         altText: ''
